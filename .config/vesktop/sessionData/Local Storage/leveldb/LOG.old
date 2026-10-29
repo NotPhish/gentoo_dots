@@ -1,0 +1,21 @@
+2026/10/27-15:36:39.112 b26 Reusing MANIFEST /home/phish/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2026/10/27-15:36:39.117 b26 Recovering log #44
+2026/10/27-15:36:39.117 b26 Reusing old log /home/phish/.config/vesktop/sessionData/Local Storage/leveldb/000044.log 
+2026/10/27-15:37:39.121 b25 Level-0 table #48: started
+2026/10/27-15:37:39.133 b25 Level-0 table #48: 152811 bytes OK
+2026/10/27-15:37:39.137 b25 Delete type=0 #44
+2026/10/27-15:38:39.947 b25 Level-0 table #50: started
+2026/10/27-15:38:39.949 b25 Level-0 table #50: 110483 bytes OK
+2026/10/27-15:38:39.957 b25 Delete type=0 #47
+2026/10/27-16:13:08.832 b05 Level-0 table #52: started
+2026/10/27-16:13:08.843 b05 Level-0 table #52: 111243 bytes OK
+2026/10/27-16:13:08.846 b05 Delete type=0 #49
+2026/10/27-16:13:08.846 b25 Compacting 4@0 + 1@1 files
+2026/10/27-16:13:08.851 b25 Generated table #53@0: 50 keys, 158829 bytes
+2026/10/27-16:13:08.851 b25 Compacted 4@0 + 1@1 files => 158829 bytes
+2026/10/27-16:13:08.854 b25 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/27-16:13:08.854 b25 Delete type=2 #43
+2026/10/27-16:13:08.854 b25 Delete type=2 #45
+2026/10/27-16:13:08.854 b25 Delete type=2 #48
+2026/10/27-16:13:08.854 b25 Delete type=2 #50
+2026/10/27-16:13:08.854 b25 Delete type=2 #52

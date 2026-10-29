@@ -1,0 +1,3 @@
+www-client/firefox -X -telemetry
+
+media-libs/libvpx postproc

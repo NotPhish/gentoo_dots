@@ -1,0 +1,4 @@
+gui-wm/mangowm ~amd64
+gui-libs/scenefx ~amd64
+gui-apps/wlr-randr ~amd64
+gui-apps/awww ~amd64

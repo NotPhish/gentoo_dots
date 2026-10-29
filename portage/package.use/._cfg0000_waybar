@@ -1,0 +1,6 @@
+gui-apps/waybar -upower -niri -pulseaudio -gps tray
+
+dev-libs/libdbusmenu gtk3
+# required by games-util/steam-launcher-1.0.0.87-r1::steam-overlay[-pulseaudio]
+# required by games-util/steam-launcher (argument)
+>=media-sound/apulse-0.1.14 abi_x86_32
